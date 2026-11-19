@@ -1,5 +1,5 @@
 context:
-  version: "0.0.6"
+  version: "0.0.7"
 
 package:
   name: ioregistry
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/i/ioregistry/ioregistry-${{ version }}.tar.gz
-  sha256: d7187ad5f93276f1ca981f72f8bee74f6bef4754d9a058643d0726b611844f32
+  sha256: 62af741e5fa5899df3f7acd6a3df5caa023070593766f1e11f14e564cf3ef7a1
 
 build:
   number: 0
